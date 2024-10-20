@@ -37,7 +37,7 @@ Invoke msfconsole:
 
 Type help or a question mark "?" to see the list of all available commands you can use inside msfconsole.
 
-![3](https://github.com/user-attachments/assets/785a2b05-043d-41a0-ae42-7c2bd5bfc8ab)
+![Screenshot 2024-10-20 171221](https://github.com/user-attachments/assets/a317ac2a-bd89-4ced-894a-6986f4ae9f40)
 
 Port Scanning:
 Following command is executed for scanning the systems on our local area network with a TCP scan (-sT) looking for open ports between 1 and 1000 (-p1-1000).
