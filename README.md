@@ -43,7 +43,7 @@ Port Scanning:
 Following command is executed for scanning the systems on our local area network with a TCP scan (-sT) looking for open ports between 1 and 1000 (-p1-1000).
 msf >  nmap -sT 192.168.1810/24 -p1-1000
 ## OUTPUT:
-![4](https://github.com/user-attachments/assets/32c61f00-31b5-41b2-8c33-b1c5c047a418)
+![Screenshot 2024-10-20 172125](https://github.com/user-attachments/assets/cd992424-98b6-4c49-a8dc-5670b7e28c79)
 
 step4:
 use the db-nmap command to scan and save the results into Metasploit's postgresql attached database. In that way, you can use those results in the exploitation stage later.
