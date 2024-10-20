@@ -33,7 +33,7 @@ Before beginning, set up the Metasploit database by starting the PostgreSQL serv
 
 Invoke msfconsole:
 ## OUTPUT:
-![2](https://github.com/user-attachments/assets/53bc2fe3-7fd4-41f7-a477-36bf83803a96)
+![Screenshot 2024-10-20 170941](https://github.com/user-attachments/assets/440a62f7-eb0c-4dee-84d1-40cb82afa699)
 
 Type help or a question mark "?" to see the list of all available commands you can use inside msfconsole.
 
