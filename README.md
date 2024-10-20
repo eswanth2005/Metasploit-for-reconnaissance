@@ -24,7 +24,7 @@ Open terminal and try execute some kali linux commands
 
 Find out the ip address of the attackers system
 ## OUTPUT:
-![1](https://github.com/user-attachments/assets/f5993c8e-b64e-4fa7-bc42-f3c4e85809cd)
+![Screenshot (250)](https://github.com/user-attachments/assets/d76ce966-4bc3-46f7-a04d-878b5ea6e42a)
 
 Before beginning, set up the Metasploit database by starting the PostgreSQL server and initialize msfconsole database as follows:
 > systemctl start postgresql
@@ -34,7 +34,6 @@ Before beginning, set up the Metasploit database by starting the PostgreSQL serv
 Invoke msfconsole:
 ## OUTPUT:
 ![2](https://github.com/user-attachments/assets/53bc2fe3-7fd4-41f7-a477-36bf83803a96)
-
 
 Type help or a question mark "?" to see the list of all available commands you can use inside msfconsole.
 
