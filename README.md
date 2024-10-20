@@ -63,8 +63,7 @@ Search is a powerful command in Metasploit that you can use to find what you wan
 msf >search name:Microsoft type:exploit
 ## OUTPUT
 
-![7](https://github.com/user-attachments/assets/68ee16ad-d6c0-4ac4-98c5-78213f814c67)
-
+![image](https://github.com/user-attachments/assets/aaccb17a-a90e-469f-bbfe-5e6c4e4d2ece)
 
 The info command provides information regarding a module or platform,
 ![8](https://github.com/user-attachments/assets/d99e2691-cfba-4be1-accd-cfcc4056a2cf)
